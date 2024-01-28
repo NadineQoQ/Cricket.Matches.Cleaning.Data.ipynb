@@ -37,4 +37,7 @@ Feel free to customize and adapt the script to your dataset or cricket statistic
 # Install required library
 pip install pandas
 
+# Run the script
+python cricket_stats_analysis.py
+
 Happy coding! 🚀
