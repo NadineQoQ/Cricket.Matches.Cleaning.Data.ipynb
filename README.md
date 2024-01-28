@@ -39,6 +39,3 @@ pip install pandas
 
 # Run the script
 CricketTestData.ipynb
-
-```bash
-Happy coding! 🚀
