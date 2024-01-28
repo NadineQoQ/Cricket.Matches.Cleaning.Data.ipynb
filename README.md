@@ -38,6 +38,7 @@ Feel free to customize and adapt the script to your dataset or cricket statistic
 pip install pandas
 
 # Run the script
-python cricket_stats_analysis.py
+CricketTestData.ipynb
 
+```bash
 Happy coding! 🚀
